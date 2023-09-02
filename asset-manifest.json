@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sorting-Veu/static/css/main.ac828aab.css",
+    "main.js": "/Sorting-Veu/static/js/main.fe49bf7f.js",
+    "static/js/787.33add0e4.chunk.js": "/Sorting-Veu/static/js/787.33add0e4.chunk.js",
+    "index.html": "/Sorting-Veu/index.html",
+    "main.ac828aab.css.map": "/Sorting-Veu/static/css/main.ac828aab.css.map",
+    "main.fe49bf7f.js.map": "/Sorting-Veu/static/js/main.fe49bf7f.js.map",
+    "787.33add0e4.chunk.js.map": "/Sorting-Veu/static/js/787.33add0e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac828aab.css",
+    "static/js/main.fe49bf7f.js"
+  ]
+}
